@@ -1,0 +1,17 @@
+matplotlib==3.2.2
+numpy==1.19.5
+pandas==1.1.5
+pyproj==3.0.0.post1
+PyWavelets==1.1.1
+scipy==1.4.1
+torch==1.6.0+cu101
+torch-cluster==1.5.8
+torch-geometric==1.6.3
+torch-scatter==2.0.5
+torch-sparse==0.6.8
+torch-spline-conv==1.2.0
+torchsummary==1.5.1
+torchtext==0.3.1
+torchvision==0.7.0+cu101
+tqdm==4.41.1
+
